@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+.test-build/
+*.app/
+*.dmg
+*.zip
+*.exe
+*.bin
+*.sav
+__pycache__/
